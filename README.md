@@ -55,25 +55,31 @@ We will be active on the Chainlink discord. If you have any questions or need an
 
 ## Chainlink Direct Request
 ### Current deployed contracts:
-SxTChainlinkOperator: 0xecd41Fd32C8E25dc2ca86D4528d966bA0Cdf58b8
-SxTPublishDataFactory: 0xf68a54ff4580d2B12E5fC45c31Fa4aea3e981e78
-SxTRelayProxy: 0xf6b18242dab7af6F7390505fCFd16e03F61F8bCB
-UserRequestBytes: 0x57fBbCBABfa409D6C5E75387080c9a07aa714f5c
-UserRequestString: 0x00962Fc5168f83278F1dD32543C335b53a5393D5
-UserRequestString2D: 0xbc4Cb22ce56fA8869096Af9E3E87a94d9396440E
-UserRequestUint256: 0xaCBB7771d778aAd35f5b46E26E2639cBc45Dd27F
+|Name|Address|
+|---|---|
+|SxTChainlinkOperator: |0xecd41Fd32C8E25dc2ca86D4528d966bA0Cdf58b8|
+|SxTPublishDataFactory: |0xf68a54ff4580d2B12E5fC45c31Fa4aea3e981e78|
+|SxTRelayProxy: |0xf6b18242dab7af6F7390505fCFd16e03F61F8bCB|
+|UserRequestBytes: |0x57fBbCBABfa409D6C5E75387080c9a07aa714f5c|
+|UserRequestString: |0x00962Fc5168f83278F1dD32543C335b53a5393D5|
+|UserRequestString2D: |0xbc4Cb22ce56fA8869096Af9E3E87a94d9396440E|
+|UserRequestUint256: |0xaCBB7771d778aAd35f5b46E26E2639cBc45Dd27F|
 
 ### Current JobIds 
 Query 
-Bytes: bc97c680d2924f31a0581d947314cc62
-String: bc97c680d2924f31a0581d947314cc63
-String2D: bc97c680d2924f31a0581d947314cc64
-Uint256: bc97c680d2924f31a0581d947314cc61
+|Data Type|Id|
+|---|---|
+|Bytes:| bc97c680d2924f31a0581d947314cc62|
+|String:| bc97c680d2924f31a0581d947314cc63|
+|String2D:| bc97c680d2924f31a0581d947314cc64|
+|Uint256:| bc97c680d2924f31a0581d947314cc61|
 
 View 
-Bytes: bc97c680d2924f31a0581d947314cc72
-String: bc97c680d2924f31a0581d947314cc73
-String2D: bc97c680d2924f31a0581d947314cc84
-Uint256: bc97c680d2924f31a0581d947314cc71
+|Data Type|Id|
+|---|---|
+|Bytes: |bc97c680d2924f31a0581d947314cc72|
+|String: |bc97c680d2924f31a0581d947314cc73|
+|String2D: |bc97c680d2924f31a0581d947314cc84|
+|Uint256: |bc97c680d2924f31a0581d947314cc71|
 
 Good luck!
